@@ -1,0 +1,12 @@
+# training data & model weights — too big for git, regenerate via train script
+samples/
+model/*.keras
+model/*.tflite
+model/*.png
+
+# python
+__pycache__/
+*.pyc
+
+# editor/tooling
+.claude/
