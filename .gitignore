@@ -1,8 +1,8 @@
-# training data & model weights — too big for git, regenerate via train script
+# training data — too big for git, regenerate via train script
 samples/
 model/*.keras
-model/*.tflite
 model/*.png
+# card_model.tflite (2.8MB) IS committed so others can run without retraining
 
 # python
 __pycache__/
